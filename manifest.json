@@ -1,0 +1,11 @@
+{
+  "name": "SHIV RACING 3D",
+  "short_name": "SHIV RACING",
+  "description": "A 3D car racing game created by Shiv Kumar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101820",
+  "theme_color": "#101820"
+}
